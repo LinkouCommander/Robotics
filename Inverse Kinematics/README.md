@@ -1,4 +1,4 @@
 ## Inverse Kinematics
 
-Run in Python 3.6.13
-Essential dependencies in requirements.txt
+Run in Python 3.6.13\
+Essential dependencies listed in requirements.txt
