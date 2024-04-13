@@ -1,3 +1,3 @@
-## Homework 3
+## Inverse Kinematics
 
 Run in Python 3.6.13
